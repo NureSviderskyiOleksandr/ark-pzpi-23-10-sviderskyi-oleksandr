@@ -5,3 +5,5 @@
 Свідерський Олександр
 
 Рекомендації щодо оформлення програмного коду мовою Ruby відповідно до Ruby Style Guid
+
+Методи рефакторингу: Extract Method, Replace Conditional with Polymorphism та Introduce Null Object для мови програмування Ruby
