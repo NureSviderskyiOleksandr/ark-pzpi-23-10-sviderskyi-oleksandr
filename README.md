@@ -6,4 +6,4 @@
 
 Рекомендації щодо оформлення програмного коду мовою Ruby відповідно до Ruby Style Guid
 
-Методи рефакторингу: Extract Method, Replace Conditional with Polymorphism та Introduce Null Object для мови програмування Ruby
+Методи рефакторингу: Encapsulate Field, Remove Control Flag та Replace Array with Object для мови програмування Ruby
